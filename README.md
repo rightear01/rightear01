@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=Welcome&height=300&fontSize=100)
 
 ## Cha-jeong-hawn 👷‍♂️
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frightear01%2FCha-jeong-hawn&count_bg=%2379C83D&title_bg=%23EEEECB&icon=atom.svg&icon_color=%2360CC67&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rightear01&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rightear01)](https://solved.ac/rightear01/)
